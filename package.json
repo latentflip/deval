@@ -4,9 +4,10 @@
   "description": "Like eval, but backwards.",
   "main": "deval.js",
   "dependencies": {
+  },
+  "devDependencies": {
     "tape": "~2.10.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "node test.js"
   },
