@@ -1,10 +1,9 @@
 {
   "name": "deval",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Like eval, but backwards.",
   "main": "deval.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "tape": "~2.10.2"
   },
