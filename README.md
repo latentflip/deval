@@ -4,8 +4,6 @@
 
 If eval takes a string representing code, and turns it into actual code, deval takes actual code, and returns a string representation of it.
 
-## Installing
-
 Browserify/node/commonjs compatible:
 
 ```
