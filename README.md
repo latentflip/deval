@@ -24,7 +24,7 @@ var codeString = [
 ].join('\n');
 ```
 
-Quotes everywhere, keeping track of indentation is a pian if you want it properly formatted, no syntax highlighting, bleurgh.
+Quotes everywhere, keeping track of indentation is a pain if you want it properly formatted, no syntax highlighting, bleurgh.
 
 Deval makes it look like this:
 
