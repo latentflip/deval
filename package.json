@@ -1,0 +1,23 @@
+{
+  "name": "deval",
+  "version": "0.1.0",
+  "description": "Like eval, but backwards.",
+  "main": "deval.js",
+  "dependencies": {
+    "tape": "~2.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:latentflip/deval.git"
+  },
+  "author": "Philip Roberts (@philip_roberts)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/latentflip/deval/issues"
+  },
+  "homepage": "https://github.com/latentflip/deval"
+}
